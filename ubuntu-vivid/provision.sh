@@ -33,7 +33,7 @@ sudo apt-get -y install fsharp
 sudo apt-get -y install tmux tree git wget curl
 sudo apt-get -y install emacs24 zsh
 sudo apt-get -y install build-essential
-sudo apt-get -y install g++
+sudo apt-get -y instal lg++
 
 # install startup files
 sudo su vagrant

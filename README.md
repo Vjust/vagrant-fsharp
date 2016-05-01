@@ -10,18 +10,6 @@ Code below assumes you have [Vagrant][vagrant] set up.
 
 ## Boxes
 
-## arch-linux
-
-Latest x64 Arch Linux, Mono & MonoDevelop from Arch base distro, basic
-Xfce4 desktop, F# and F# MD binding compiled from GitHub.
-
-Instructions:
-
-    cd ./arch-linux && vagrant up
-    vagrant ssh
-    startxfce4
-
-Since we are building F# from source, the process can take a while.
 
 ## ubuntu-trusty
 
